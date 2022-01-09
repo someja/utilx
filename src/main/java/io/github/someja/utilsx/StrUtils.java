@@ -1,4 +1,4 @@
-package com.github.someja.utilsx;
+package io.github.someja.utilsx;
 
 /**
  * 字符串工具类

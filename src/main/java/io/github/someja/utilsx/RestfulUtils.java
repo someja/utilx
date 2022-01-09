@@ -1,4 +1,4 @@
-package com.github.someja.utilsx;
+package io.github.someja.utilsx;
 
 import org.apache.hc.client5.http.fluent.Request;
 import org.slf4j.Logger;

@@ -1,4 +1,4 @@
-package com.github.someja.utilsx;
+package io.github.someja.utilsx;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

@@ -1,4 +1,4 @@
-package com.github.someja.utilsx;
+package io.github.someja.utilsx;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

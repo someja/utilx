@@ -1,4 +1,4 @@
-package com.github.someja.utilsx;
+package io.github.someja.utilsx;
 
 public class Pagination {
 	private Integer pageIndex = 1;

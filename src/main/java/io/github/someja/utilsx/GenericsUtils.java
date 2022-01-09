@@ -1,4 +1,4 @@
-package com.github.someja.utilsx;
+package io.github.someja.utilsx;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;

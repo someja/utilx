@@ -1,4 +1,4 @@
-package com.github.someja.utilsx;
+package io.github.someja.utilsx;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
